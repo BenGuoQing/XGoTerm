@@ -263,7 +263,7 @@ limitations under the License.
 
 - **问题反馈**：[GitHub Issues](https://github.com/yourusername/xgoterm/issues)
 - **讨论交流**：[GitHub Discussions](https://github.com/yourusername/xgoterm/discussions)
-- **邮箱**：your-email@example.com
+- **邮箱**：3525909995@qq.com
 
 ---
 
